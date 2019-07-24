@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\melan\documents\gex\yr_1\winter2018\object oriented c++\hangman\hangman\source.cpp(62): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\melan\documents\gex\yr_1\winter2018\object oriented c++\hangman\hangman\source.cpp(74): warning C4018: '<': signed/unsigned mismatch
+c:\users\melan\documents\gex\yr_1\winter2018\object oriented c++\hangman\hangman\source.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\melan\documents\gex\yr_1\winter2018\object oriented c++\hangman\hangman\source.cpp(139): warning C4018: '<': signed/unsigned mismatch
+  Hangman.vcxproj -> C:\Users\melan\Documents\GEX\YR_1\Winter2018\Object Oriented C++\Hangman\Debug\Hangman.exe
